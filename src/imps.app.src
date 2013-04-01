@@ -1,0 +1,10 @@
+{application, imps,
+ [{description, "Erlang implementation of IMPS"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [stdlib,
+                  kernel]},
+  {modules, []},
+  {env, []}
+ ]
+}.
